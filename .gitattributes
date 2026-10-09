@@ -1,0 +1,5 @@
+# Keep line endings consistent between Windows and macOS checkouts.
+* text=auto eol=lf
+
+*.exe binary
+*.out binary

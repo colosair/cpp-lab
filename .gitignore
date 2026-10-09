@@ -1,0 +1,37 @@
+# Compiled binaries and objects (Windows / macOS / Linux)
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.pdb
+*.ilk
+*.dSYM/
+
+# CMake and other build directories
+build/
+out/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+
+# Machine-specific editor and agent settings
+.vscode/
+.idea/
+*.code-workspace
+.cache/
+.claude/settings.local.json
+
+# OS and editor temporary files
+.DS_Store
+._*
+Thumbs.db
+desktop.ini
+*~
+*.swp
